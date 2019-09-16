@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
     [SerializeField] [Range(1, 20)] public float jumpForce;
     [SerializeField] [Range(1, 20)] public float wallJumpForce;
     [SerializeField] [Range(1, 20)] public float wallJumpSpeed;
-    [SerializeField] [Range(1, 20)] public float wallJumpSprintSpeed;
+    [SerializeField] [Range(1, 100)] public float wallJumpSprintSpeed;
 
     // Start is called before the first frame update
     void Start()

@@ -250,7 +250,7 @@ MonoBehaviour:
   jumpForce: 6
   wallJumpForce: 5.5
   wallJumpSpeed: 6.5
-  wallJumpSprintSpeed: 7.29
+  wallJumpSprintSpeed: 18.2
 --- !u!1 &476446854
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,7 +416,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 4e-45}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
